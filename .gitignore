@@ -1,0 +1,6 @@
+.DS_Store
+.cache/
+.tmp/
+election/.main
+election/.labs
+CM
